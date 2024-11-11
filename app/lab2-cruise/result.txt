@@ -1,0 +1,881 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [2-1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+Lab: Cruise Control
+delay in ticks 100
+VehicleTimer created
+ControlTimer created
+ButtonIOTimer created
+SwitchIOTimer created
+ExtraloadTimer created
+VehicleTimer started
+ControlTimer started
+ButtonIOTimer started
+SwitchIOTimer started
+OverloadDetectionTimer started
+ExtraloadTimer started
+All Tasks and Kernel Objects generated!
+SwitchIOTask generated!
+ButtonIOTask generated!
+Vehicle task created!
+Control Task created!
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 0 m
+Velocity: 0 m/s
+Accell: 40 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 0 m
+Velocity: 12 m/s
+Accell: 28 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 3 m
+Velocity: 20 m/s
+Accell: 20 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 9 m
+Velocity: 26 m/s
+Accell: 14 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 16 m
+Velocity: 30 m/s
+Accell: 10 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 25 m
+Velocity: 33 m/s
+Accell: 7 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 34 m
+Velocity: 35 m/s
+Accell: 5 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 44 m
+Velocity: 36 m/s
+Accell: 4 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 54 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 65 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 76 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 87 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 98 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 109 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 120 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 131 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 142 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 153 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 164 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 175 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 186 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 197 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 208 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 219 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 230 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 241 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 252 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 263 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 274 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 285 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 296 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 0 % 
+Position: 307 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 318 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 329 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 340 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 351 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 362 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 373 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 384 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 395 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 406 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 417 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 2 % 
+Position: 428 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 439 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 450 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 461 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 472 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 483 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 494 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 505 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 516 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+Position: 527 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+ExtraLoadTask system_utilization 6 % 
+Position: 538 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+Position: 549 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 560 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 571 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 582 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 593 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 604 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 615 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 626 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+Position: 637 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+ExtraLoadTask system_utilization 6 % 
+Position: 648 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+Position: 659 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 670 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 681 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 692 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 703 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 714 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 725 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 736 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 747 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 758 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+Position: 769 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+ExtraLoadTask system_utilization 6 % 
+Position: 780 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+Position: 791 m
+Velocity: 37 m/s
+Accell: 1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 802 m
+Velocity: 37 m/s
+Accell: -1 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 813 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 823 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 833 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 6 % 
+Position: 843 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 14 % 
+Position: 853 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 863 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 873 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 14 % 
+Position: 883 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 893 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 903 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 14 % 
+Position: 913 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 923 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 933 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 14 % 
+Position: 943 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 953 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 14 % 
+System OKPosition: 963 m
+
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+Position: 973 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 983 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 993 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 30 % 
+Position: 1003 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1013 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1023 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1033 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1043 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1053 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 30 % 
+Position: 1063 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1073 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1083 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1093 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1103 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1113 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1123 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 62 % 
+Position: 1133 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1143 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1153 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1163 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1173 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1183 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1193 m
+Velocity: 36 m/s
+Accell: 0 m/s2
+Throttle: 40 V
+System OK
+Position: 1203 m
+Velocity: 36 m/s
+Accell: 4 m/s2
+Throttle: 40 V
+System OK
+Position: 1213 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1224 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1235 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1246 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1257 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1268 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1279 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 62 % 
+Position: 1290 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1301 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1312 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1323 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1334 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1345 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1356 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1367 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1378 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1389 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1400 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1411 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1422 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1433 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1444 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+Position: 1455 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System OK
+ExtraLoadTask system_utilization 100 % 
+Position: 1466 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1477 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System Overload Detected!
+Position: 1488 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1499 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1510 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System Overload Detected!
+Position: 1521 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1532 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1543 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System Overload Detected!
+Position: 1554 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1565 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System Overload Detected!
+Position: 1576 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1587 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+Position: 1598 m
+Velocity: 37 m/s
+Accell: 3 m/s2
+Throttle: 40 V
+System Overload Detected!
+Position: 1609 m
+Velocity: 37 m/s
+Accell: 7 m/s2
+Throttle: 40 V
+Position: 1620 m
+Velocity: 39 m/s
+Accell: 5 m/s2
+Throttle: 40 V
+Position: 1631 m
+Velocity: 40 m/s
+Accell: 4 m/s2
+Throttle: 40 V
+System Overload Detected!

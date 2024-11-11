@@ -1,0 +1,1159 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [2-1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+Lab 3 - Two Tasks
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1324; Free: 6868
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1368; Free: 6824
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1368; Free: 6824
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+HHello from Task1
+ello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Hello from Task1
+Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello fromHello from Task1
+ Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello fromHello from Task1
+ Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+HelloHello from Task1
+ from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Hello fromHello from Task1
+ Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello frHello from Task1
+om Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello froHello from Task1
+m Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2Hello from Task1
+
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2Hello from Task1
+
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2Hello from Task1
+
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+HelloHello from Task1
+ from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+HelloHello from Task1
+ from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+HelloHello from Task1
+ from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello fromHello from Task1
+ Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello fromHello from Task1
+ Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+HelloHello from Task1
+ from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from TasHello from Task1
+k2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+HelloHello from Task1
+ from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello froHello from Task1
+m Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2Hello from Task1
+
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello froHello from Task1
+m Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from TasHello from Task1
+k2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from TasHello from Task1
+k2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello fromHello from Task1
+ Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello froHello from Task1
+m Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from TaskHello from Task1
+2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2Hello from Task1
+
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from THello from Task1
+ask2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from TaskHello from Task1
+2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from TaskHello from Task1
+2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from TaHello from Task1
+sk2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+HelloHello from Task1
+ from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello froHello from Task1
+m Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from TaskHello from Task1
+2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Hello from Task1
+Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from TasHello from Task1
+k2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Hello from Task1
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2Hello from Task1
+
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+HelloHello from Task1
+ from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+HelloHello from Task1
+ from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4096; Free: 4096
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello fromHello from Task1
+ Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task1
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2Hello from Task1
+
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2
+Task1 (priority 6) - Used: 1432; Free: 6760
+Hello from Task1
+Hello from Task2
+Task2 (priority 7) - Used: 1432; Free: 6760
+Hello from Task2
+Hello from Task1
+Hello from Task2
+StatisticTask (priority 12) - Used: 4100; Free: 4092
+Hello from Task2

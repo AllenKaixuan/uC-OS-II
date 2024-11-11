@@ -1,0 +1,27 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [2-1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+Lab 3 - Two Tasks
+NO.1 1 to 2: 1993
+NO.1 2 to 1: 2448
+NO.2 1 to 2: 1958
+NO.2 2 to 1: 2448
+NO.3 1 to 2: 1958
+NO.3 2 to 1: 9317
+NO.4 1 to 2: 1958
+NO.4 2 to 1: 8430
+NO.5 1 to 2: 2863
+NO.5 2 to 1: 2448
+NO.6 1 to 2: 1958
+NO.6 2 to 1: 2448
+NO.7 1 to 2: 1958
+NO.7 2 to 1: 2448
+NO.8 1 to 2: 1958
+NO.8 2 to 1: 2448
+NO.9 1 to 2: 1958
+NO.9 2 to 1: 2448
+NO.10 1 to 2: 1958
+Average 1 to 2: 2049
+NO.10 2 to 1: 2448
+Average 2 to 1: 2448
